@@ -21,6 +21,5 @@ while(i <= 100){
     else{
         console.log(i)
     }
-
     i++;
 }
